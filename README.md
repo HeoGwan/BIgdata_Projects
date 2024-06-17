@@ -1,4 +1,4 @@
-# Bigdata_Projects
+# Bigdata-Projects
 빅데이터 개론 프로젝트 정리
 
 ## 아이디어 경진대회
